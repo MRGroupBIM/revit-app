@@ -1,0 +1,2380 @@
+﻿{
+    "Sheet1": [
+        {
+            "ru": "Строительная площадка",
+            "code": "СП",
+            "en": "Construction site",
+            "de": "Baustelle"
+        },
+        {
+            "ru": "Подготовка площадки",
+            "code": "СП.ПП",
+            "en": "Preparation of the site",
+            "de": "Vorbereitung der Site"
+        },
+        {
+            "ru": "Ограждения и дороги",
+            "code": "СП.ПП.1",
+            "en": "Fencing and expensive",
+            "de": "Fechten und teuer"
+        },
+        {
+            "ru": "Ограждение строительной площадки",
+            "code": "СП.ПП.1.1",
+            "en": "Fencing construction site",
+            "de": "Fechtbaustelle."
+        },
+        {
+            "ru": "Дороги временные",
+            "code": "СП.ПП.1.5",
+            "en": "Temporary roads",
+            "de": "Temporäre Straßen"
+        },
+        {
+            "ru": "Площадки временные",
+            "code": "СП.ПП.1.6",
+            "en": "Temporary sites",
+            "de": "Temporäre Sehenswürdigkeiten"
+        },
+        {
+            "ru": "Временные сооружения",
+            "code": "СП.ПП.2",
+            "en": "Temporary facilities",
+            "de": "Temporäre Einrichtungen"
+        },
+        {
+            "ru": "Бытовое сооружение",
+            "code": "СП.ПП.2.1",
+            "en": "Household constructions",
+            "de": "Haushaltskonstruktionen"
+        },
+        {
+            "ru": "Временная подстанция электрическая",
+            "code": "СП.ПП.2.2",
+            "en": "Electric temporary substation",
+            "de": "Elektrische temporäre Umspannstation."
+        },
+        {
+            "ru": "Временная котельная",
+            "code": "СП.ПП.2.3",
+            "en": "Temporary boiler room",
+            "de": "Temporärer Kesselraum"
+        },
+        {
+            "ru": "Склад",
+            "code": "СП.ПП.2.4",
+            "en": "Warehouse",
+            "de": "Lagerhaus"
+        },
+        {
+            "ru": "Арматурный цех",
+            "code": "СП.ПП.2.5",
+            "en": "Armature shop",
+            "de": "Ankörperladen"
+        },
+        {
+            "ru": "Временное водоснабжение",
+            "code": "СП.ПП.2.6",
+            "en": "Temporary water supply",
+            "de": "Temporäre Wasserversorgung."
+        },
+        {
+            "ru": "Временное электроснабжение",
+            "code": "СП.ПП.2.7",
+            "en": "Temporary power supply",
+            "de": "Temporäre Stromversorgung."
+        },
+        {
+            "ru": "Пункт мойки колес",
+            "code": "СП.ПП.2.8",
+            "en": "Point washing wheels",
+            "de": "Punktwaschräder"
+        },
+        {
+            "ru": "Пункт охраны",
+            "code": "СП.ПП.2.9",
+            "en": "Security clause",
+            "de": "Sicherheitsklausel"
+        },
+        {
+            "ru": "Механизация",
+            "code": "СП.ПП.3",
+            "en": "Mechanization",
+            "de": "Mechanisierung"
+        },
+        {
+            "ru": "Кран грузоподьемный",
+            "code": "СП.ПП.3.1",
+            "en": "Crane loaded",
+            "de": "Kran geladen"
+        },
+        {
+            "ru": "Бетононасос",
+            "code": "СП.ПП.3.2",
+            "en": "Concrete pump",
+            "de": "Betonpumpe"
+        },
+        {
+            "ru": "Нулевой цикл",
+            "code": "НЦ",
+            "en": "Zero cycle",
+            "de": "Nullzyklus"
+        },
+        {
+            "ru": "Котлован",
+            "code": "НЦ.КТ",
+            "en": "Boiler",
+            "de": "Kessel"
+        },
+        {
+            "ru": "Ограждения котлована",
+            "code": "НЦ.КТ.1",
+            "en": "Fencing Kotlovana",
+            "de": "Fechten Kotlovana."
+        },
+        {
+            "ru": "Геотехнический экран",
+            "code": "НЦ.КТ.1.1",
+            "en": "Geotechnical screen",
+            "de": "Geotechnischer Bildschirm"
+        },
+        {
+            "ru": "Шпунтовое ограждение",
+            "code": "НЦ.КТ.1.2",
+            "en": "Shower fence",
+            "de": "Duschzaun"
+        },
+        {
+            "ru": "Шпунт трубчатый",
+            "code": "НЦ.КТ.1.2.1",
+            "en": "Tubular spool",
+            "de": "Rohrförmige Spule."
+        },
+        {
+            "ru": "Забирка",
+            "code": "НЦ.КТ.1.2.2",
+            "en": "Baby",
+            "de": "Baby"
+        },
+        {
+            "ru": "Шпунт Ларсен",
+            "code": "НЦ.КТ.1.2.3",
+            "en": "Spool Larsen",
+            "de": "Spool Larsen."
+        },
+        {
+            "ru": "Стена в грунте",
+            "code": "НЦ.КТ.1.3",
+            "en": "Wall in soil",
+            "de": "Wand im Boden."
+        },
+        {
+            "ru": "Форшахта стены в грунте",
+            "code": "НЦ.КТ.1.3.1",
+            "en": "Forschhat wall in the ground",
+            "de": "Forschhat Mauer im Boden"
+        },
+        {
+            "ru": "Cтена в грунте",
+            "code": "НЦ.КТ.1.3.2",
+            "en": "Sten in soil",
+            "de": "Im Boden stecken"
+        },
+        {
+            "ru": "Буросекущие сваи",
+            "code": "НЦ.КТ.1.3.3",
+            "en": "Baroscic piles",
+            "de": "Barosclic Piles."
+        },
+        {
+            "ru": "Обвязочная балка ограждения",
+            "code": "НЦ.КТ.1.4",
+            "en": "Strapping beam fence",
+            "de": "Umreifender Strahlzaun."
+        },
+        {
+            "ru": "Монолитная обвязочная балка ограждения",
+            "code": "НЦ.КТ.1.4.1",
+            "en": "Monolithic strapping beam fencing",
+            "de": "Monolithischer Umreifungsstrahl-Fechten"
+        },
+        {
+            "ru": "Сборная обвязочная балка ограждения",
+            "code": "НЦ.КТ.1.4.2",
+            "en": "Prefabit Bay Fencing",
+            "de": "Prefabit Bay Fechten."
+        },
+        {
+            "ru": "Металлическая обвязочная балка ограждения",
+            "code": "НЦ.КТ.1.4.3",
+            "en": "Metal strapping beam fence",
+            "de": "Metallstrappabstrahlzaun"
+        },
+        {
+            "ru": "Распорная система",
+            "code": "НЦ.КТ.1.5",
+            "en": "Specific system",
+            "de": "Spezifisches System"
+        },
+        {
+            "ru": "Грунтовый анкер",
+            "code": "НЦ.КТ.1.5.1",
+            "en": "Soil anchor",
+            "de": "Bodenanker"
+        },
+        {
+            "ru": "Распорки и подкосы",
+            "code": "НЦ.КТ.1.5.2",
+            "en": "Speakers and scrollings",
+            "de": "Lautsprecher und Scrollings."
+        },
+        {
+            "ru": "Обвязочная балка распорной системы",
+            "code": "НЦ.КТ.1.5.3",
+            "en": "Stripping beam spacer system",
+            "de": "Abisolierbalken-Spacer-System"
+        },
+        {
+            "ru": "Закладная деталь распорной системы",
+            "code": "НЦ.КТ.1.5.4",
+            "en": "Mortgage detail of the spacer system",
+            "de": "Hypothekendetails des Spacer-Systems"
+        },
+        {
+            "ru": "Строительное водопонижение",
+            "code": "НЦ.КТ.2",
+            "en": "Construction water resolution",
+            "de": "Wasserauflösung des Bauwassers."
+        },
+        {
+            "ru": "Пьезометрическая скважина",
+            "code": "НЦ.КТ.2.1",
+            "en": "Piezometric well",
+            "de": "Piezometrisch gut."
+        },
+        {
+            "ru": "Скважина водопонижения",
+            "code": "НЦ.КТ.2.2",
+            "en": "Well-rode well",
+            "de": "Gut rode"
+        },
+        {
+            "ru": "Трубная обвязка",
+            "code": "НЦ.КТ.2.3",
+            "en": "Pipe strapping",
+            "de": "Rohrumreifung"
+        },
+        {
+            "ru": "Фильтрационная труба",
+            "code": "НЦ.КТ.2.4",
+            "en": "Filtration trumpet",
+            "de": "Filtrationstrompete."
+        },
+        {
+            "ru": "Фильтрационная установка",
+            "code": "НЦ.КТ.2.5",
+            "en": "Filtering installation",
+            "de": "Installation filtern."
+        },
+        {
+            "ru": "ЗУМПФ",
+            "code": "НЦ.КТ.2.6",
+            "en": "SUMP",
+            "de": "SUMPF"
+        },
+        {
+            "ru": "Земляные работы",
+            "code": "НЦ.КТ.3",
+            "en": "Excavation",
+            "de": "Ausgrabung"
+        },
+        {
+            "ru": "Пионерная траншея котлована",
+            "code": "НЦ.КТ.3.1",
+            "en": "Pioneer trench catlovana",
+            "de": "Pioniergraben Catlovana."
+        },
+        {
+            "ru": "Пионерный котлован",
+            "code": "НЦ.КТ.3.2",
+            "en": "Pioneer boiler",
+            "de": "Pionierkessel."
+        },
+        {
+            "ru": "Основной котлован",
+            "code": "НЦ.КТ.3.3",
+            "en": "The main boiler",
+            "de": "Der Hauptkessel"
+        },
+        {
+            "ru": "Берма",
+            "code": "НЦ.КТ.3.4",
+            "en": "Berm",
+            "de": "Bräter"
+        },
+        {
+            "ru": "Ручная доработка",
+            "code": "НЦ.КТ.3.5",
+            "en": "Manual refinement",
+            "de": "Manuelle Raffinesse"
+        },
+        {
+            "ru": "Обратная засыпка пазух котлована",
+            "code": "НЦ.КТ.3.6",
+            "en": "Reverse fusion of the sinuses of the kittle",
+            "de": "Umgekehrte Fusion der Nebenhöhlen des Kittle"
+        },
+        {
+            "ru": "Укрепление откосов котлована",
+            "code": "НЦ.КТ.3.7",
+            "en": "Strengthening the slopes of Kotlovana",
+            "de": "Stärkung der Hänge von Kotlovana"
+        },
+        {
+            "ru": "Свайное основание",
+            "code": "НЦ.КТ.4",
+            "en": "Pile foundation",
+            "de": "Pfahlgründung"
+        },
+        {
+            "ru": "Холостой ход сваи",
+            "code": "НЦ.КТ.4.1",
+            "en": "Idle swearing",
+            "de": "Leerwargen"
+        },
+        {
+            "ru": "Сваи",
+            "code": "НЦ.КТ.4.2",
+            "en": "Pile",
+            "de": "Haufen"
+        },
+        {
+            "ru": "Забивная свая",
+            "code": "НЦ.КТ.4.2.1",
+            "en": "Baby silent",
+            "de": "Baby Silent"
+        },
+        {
+            "ru": "Буронабивная свая",
+            "code": "НЦ.КТ.4.2.2",
+            "en": "Buried pile",
+            "de": "Vergrabener Haufen"
+        },
+        {
+            "ru": "Устройство основания фундаментной плиты",
+            "code": "НЦ.КТ.5",
+            "en": "Foundation Device Foundation Plate",
+            "de": "Foundation Device Foundation Plate"
+        },
+        {
+            "ru": "Отсыпка под фундамент",
+            "code": "НЦ.КТ.5.1",
+            "en": "Sweep under the foundation",
+            "de": "Unter dem Fundament fegen"
+        },
+        {
+            "ru": "Бетонная подготовка",
+            "code": "НЦ.КТ.5.2",
+            "en": "Concrete preparation",
+            "de": "Konkrete Vorbereitung"
+        },
+        {
+            "ru": "Гидроизоляция низа фундаментной плиты",
+            "code": "НЦ.КТ.5.3",
+            "en": "Waterproofing Niza Foundation Plate",
+            "de": "Abdichtung NIZA Foundation Teller"
+        },
+        {
+            "ru": "Стяжка бетонной подготовки",
+            "code": "НЦ.КТ.5.4",
+            "en": "Screed concrete training",
+            "de": "Estrich-konkrete Ausbildung."
+        },
+        {
+            "ru": "Защитная мембрана бетонной подготовки",
+            "code": "НЦ.КТ.5.5",
+            "en": "Concrete Preparation Membrane",
+            "de": "Betonvorbereitungsmembran."
+        },
+        {
+            "ru": "Защитные мероприятия",
+            "code": "НЦ.ЗМ",
+            "en": "Protective events",
+            "de": "Schutzereignisse"
+        },
+        {
+            "ru": "Изолирующие конструкции",
+            "code": "НЦ.ЗМ.1",
+            "en": "Insulating designs",
+            "de": "Isolierende Designs"
+        },
+        {
+            "ru": "Гидроизоляционные конструкции",
+            "code": "НЦ.ЗМ.1.1",
+            "en": "Waterproofing structures",
+            "de": "Abdichtungsstrukturen."
+        },
+        {
+            "ru": "Теплоизоляционные конструкции",
+            "code": "НЦ.ЗМ.1.2",
+            "en": "Thermal insulation structures",
+            "de": "Wärmedämmstrukturen."
+        },
+        {
+            "ru": "Защита изоляционных конструкций",
+            "code": "НЦ.ЗМ.1.3",
+            "en": "Protection of insulation structures",
+            "de": "Schutz der Isolierstrukturen"
+        },
+        {
+            "ru": "Уклонообразующий слой",
+            "code": "НЦ.ЗМ.1.4",
+            "en": "Ulocaty layer",
+            "de": "Ulocaty-Schicht"
+        },
+        {
+            "ru": "Гидрошпонка дефшва",
+            "code": "НЦ.ЗМ.1.5",
+            "en": "Hydroshponka Defshva",
+            "de": "Hydroshponka defshva."
+        },
+        {
+            "ru": "Галтель",
+            "code": "НЦ.ЗМ.1.6",
+            "en": "Fillet",
+            "de": "Filet"
+        },
+        {
+            "ru": "Термовкладыш",
+            "code": "НЦ.ЗМ.1.7",
+            "en": "Thermal lady",
+            "de": "Thermische Dame."
+        },
+        {
+            "ru": "Сальник",
+            "code": "НЦ.ЗМ.1.8",
+            "en": "Stuffing box",
+            "de": "Füllkiste."
+        },
+        {
+            "ru": "Дренаж",
+            "code": "НЦ.ЗМ.2",
+            "en": "Drainage",
+            "de": "Drainage"
+        },
+        {
+            "ru": "Дренажная засыпка",
+            "code": "НЦ.ЗМ.2.1",
+            "en": "Drainfall",
+            "de": "Ablauffall"
+        },
+        {
+            "ru": "Бетонное основание под дренаж",
+            "code": "НЦ.ЗМ.2.2",
+            "en": "Concrete bottom drainage",
+            "de": "Betonbodenentwässerung."
+        },
+        {
+            "ru": "Дренажная система",
+            "code": "НЦ.ЗМ.2.3",
+            "en": "Drainage system",
+            "de": "Entwässerungssystem"
+        },
+        {
+            "ru": "Колодец дренажный",
+            "code": "НЦ.ЗМ.2.4",
+            "en": "Drainage well",
+            "de": "Drainage Brunnen"
+        },
+        {
+            "ru": "Укрепление",
+            "code": "НЦ.ЗМ.3",
+            "en": "Strengthening",
+            "de": "Stärkung"
+        },
+        {
+            "ru": "Геотекстиль",
+            "code": "НЦ.ЗМ.3.1",
+            "en": "Geotextile",
+            "de": "Geotextil"
+        },
+        {
+            "ru": "Подпорная стена геотехническая",
+            "code": "НЦ.ЗМ.3.2",
+            "en": "Retaining wall geotechnical",
+            "de": "Haltewand geotechnisch"
+        },
+        {
+            "ru": "Общестроительные работы",
+            "code": "ОС",
+            "en": "Civil works",
+            "de": "Bauarbeiten"
+        },
+        {
+            "ru": "Конструктивные элементы здания",
+            "code": "ОС.КЭ",
+            "en": "Constructive elements of the building",
+            "de": "Konstruktive Elemente des Gebäudes"
+        },
+        {
+            "ru": "Фундамент",
+            "code": "ОС.КЭ.1",
+            "en": "Foundation",
+            "de": "Stiftung"
+        },
+        {
+            "ru": "Монолитный фундамент",
+            "code": "ОС.КЭ.1.1",
+            "en": "Monolithic foundation",
+            "de": "Monolithische Grundlage."
+        },
+        {
+            "ru": "Фундаментная плита",
+            "code": "ОС.КЭ.1.1.1",
+            "en": "Foundation Plate.",
+            "de": "Fundamentplatte."
+        },
+        {
+            "ru": "Ленточный фундамент",
+            "code": "ОС.КЭ.1.1.2",
+            "en": "Ribbon foundation",
+            "de": "Ribbon Foundation"
+        },
+        {
+            "ru": "Столбчатый фундамент",
+            "code": "ОС.КЭ.1.1.3",
+            "en": "Foundation column",
+            "de": "Fundamentsäule"
+        },
+        {
+            "ru": "Сборный фундамент",
+            "code": "ОС.КЭ.1.2",
+            "en": "National Foundation",
+            "de": "National Foundation"
+        },
+        {
+            "ru": "Блочный фундамент",
+            "code": "ОС.КЭ.1.2.1",
+            "en": "Block foundation",
+            "de": "Blocklage"
+        },
+        {
+            "ru": "Ростверк фундаментной плиты",
+            "code": "ОС.КЭ.1.3",
+            "en": "Scarlet foundation plate",
+            "de": "Scarlet Foundation Plate."
+        },
+        {
+            "ru": "Вертикальные конструкции",
+            "code": "ОС.КЭ.2",
+            "en": "Vertical designs",
+            "de": "Vertikale Designs"
+        },
+        {
+            "ru": "Стена монолитная",
+            "code": "ОС.КЭ.2.1",
+            "en": "Wall monolithic",
+            "de": "Wandmonolithic."
+        },
+        {
+            "ru": "Колонна",
+            "code": "ОС.КЭ.2.2",
+            "en": "Column",
+            "de": "Spalte"
+        },
+        {
+            "ru": "Пилон",
+            "code": "ОС.КЭ.2.3",
+            "en": "Pylon",
+            "de": "Pylon"
+        },
+        {
+            "ru": "Горизонтальные конструкции",
+            "code": "ОС.КЭ.3",
+            "en": "Horizontal structures",
+            "de": "Horizontale Strukturen"
+        },
+        {
+            "ru": "Перекрытие монолитное",
+            "code": "ОС.КЭ.3.1",
+            "en": "Monolithic overlap",
+            "de": "Monolithische Überschneidung"
+        },
+        {
+            "ru": "Перекрытие сборное",
+            "code": "ОС.КЭ.3.2",
+            "en": "Collection of national team",
+            "de": "Sammlung nationales Team"
+        },
+        {
+            "ru": "Балка монолитный",
+            "code": "ОС.КЭ.3.3",
+            "en": "Monolithic beam",
+            "de": "Monolithischer Strahl"
+        },
+        {
+            "ru": "Капитель монолитная",
+            "code": "ОС.КЭ.3.4",
+            "en": "Capitel Monolithic",
+            "de": "Capitel Monolithic."
+        },
+        {
+            "ru": "Парапет монолитный",
+            "code": "ОС.КЭ.3.5",
+            "en": "Parapet monolithic",
+            "de": "Brüstungsmonolithic."
+        },
+        {
+            "ru": "Лестницы",
+            "code": "ОС.КЭ.4",
+            "en": "Stairs",
+            "de": "Treppe"
+        },
+        {
+            "ru": "Лестничный марш монолитный",
+            "code": "ОС.КЭ.4.1",
+            "en": "Ladder monolithic march",
+            "de": "Leiter monolithischer März."
+        },
+        {
+            "ru": "Лестничная площадка монолитная",
+            "code": "ОС.КЭ.4.2",
+            "en": "Staircase monolithic",
+            "de": "Treppenhaus monolithisch"
+        },
+        {
+            "ru": "Лестничный марш сборный",
+            "code": "ОС.КЭ.4.3",
+            "en": "Staircase march",
+            "de": "Treppenhausmarsch"
+        },
+        {
+            "ru": "Лестничная площадка сборная",
+            "code": "ОС.КЭ.4.4",
+            "en": "Staircase national team",
+            "de": "Treppenhaus Nationalmannschaft."
+        },
+        {
+            "ru": "Рампа",
+            "code": "ОС.КЭ.4.5",
+            "en": "Ramp",
+            "de": "Rampe"
+        },
+        {
+            "ru": "Металлические конструкции",
+            "code": "ОС.КЭ.5",
+            "en": "Metal constructions",
+            "de": "Metallkonstruktionen."
+        },
+        {
+            "ru": "Стальная балка",
+            "code": "ОС.КЭ.5.1",
+            "en": "Steel beam",
+            "de": "Stahlträger"
+        },
+        {
+            "ru": "Стальная стойка",
+            "code": "ОС.КЭ.5.2",
+            "en": "Steel stand",
+            "de": "Stahlstand"
+        },
+        {
+            "ru": "Стальная колонна",
+            "code": "ОС.КЭ.5.3",
+            "en": "Steel column",
+            "de": "Stahlpfosten"
+        },
+        {
+            "ru": "Связь стальная",
+            "code": "ОС.КЭ.5.4",
+            "en": "Communication steel",
+            "de": "Kommunikationstahl"
+        },
+        {
+            "ru": "Прогон металлический",
+            "code": "ОС.КЭ.5.5",
+            "en": "Metal run",
+            "de": "Metalllauf"
+        },
+        {
+            "ru": "Ферма стальная",
+            "code": "ОС.КЭ.5.6",
+            "en": "Farm Steel",
+            "de": "Bauernhofstahl"
+        },
+        {
+            "ru": "Настил металлический",
+            "code": "ОС.КЭ.5.7",
+            "en": "Metal flooring",
+            "de": "Fußböden"
+        },
+        {
+            "ru": "Рамная конструкция",
+            "code": "ОС.КЭ.5.8",
+            "en": "Frame design",
+            "de": "Rahmendesign"
+        },
+        {
+            "ru": "Фасонка металлическая",
+            "code": "ОС.КЭ.5.9",
+            "en": "Metal shaped",
+            "de": "Metallförmig"
+        },
+        {
+            "ru": "Жёсткая арматура",
+            "code": "ОС.КЭ.5.10",
+            "en": "Hard fittings",
+            "de": "Harte Beschläge"
+        },
+        {
+            "ru": "Закладная деталь",
+            "code": "ОС.КЭ.5.11",
+            "en": "Mortgage detail",
+            "de": "Hypothekendetails."
+        },
+        {
+            "ru": "Повторяющийся узел",
+            "code": "ОС.КЭ.5.12",
+            "en": "Repeating knot",
+            "de": "Knoten wiederholen"
+        },
+        {
+            "ru": "Арматурный каркас",
+            "code": "ОС.КЭ.6",
+            "en": "Armature carcass",
+            "de": "Ankerkarkasse."
+        },
+        {
+            "ru": "Стены и перегородки здания",
+            "code": "ОС.СП",
+            "en": "Walls and partitions building",
+            "de": "Wände und Partitionen Gebäude"
+        },
+        {
+            "ru": "Стены",
+            "code": "ОС.СП.1",
+            "en": "Walls",
+            "de": "Wände"
+        },
+        {
+            "ru": "Стена внутренняя",
+            "code": "ОС.СП.1.1",
+            "en": "Wall internal",
+            "de": "Wandinhalt"
+        },
+        {
+            "ru": "Стена наружная",
+            "code": "ОС.СП.1.2",
+            "en": "Outdoor wall",
+            "de": "Außenwand"
+        },
+        {
+            "ru": "Перегородка",
+            "code": "ОС.СП.1.4",
+            "en": "Partition",
+            "de": "Partition"
+        },
+        {
+            "ru": "Витрина",
+            "code": "ОС.СП.1.5",
+            "en": "Showcase",
+            "de": "Vitrine"
+        },
+        {
+            "ru": "Стена парапетная",
+            "code": "ОС.СП.1.6",
+            "en": "Parapete wall",
+            "de": "Parapete Wand."
+        },
+        {
+            "ru": "Заполнения проемов",
+            "code": "ОС.ЗП",
+            "en": "Filling the openings",
+            "de": "Die Öffnungen füllen"
+        },
+        {
+            "ru": "Окна специальные",
+            "code": "ОС.ЗП.1",
+            "en": "Special windows",
+            "de": "Spezielle Fenster"
+        },
+        {
+            "ru": "Интерьерное окно",
+            "code": "ОС.ЗП.1.1",
+            "en": "Interior window",
+            "de": "Innenfenster"
+        },
+        {
+            "ru": "Окно в кровле",
+            "code": "ОС.ЗП.1.2",
+            "en": "Window in the roof",
+            "de": "Fenster im Dach"
+        },
+        {
+            "ru": "Дверные конструкции",
+            "code": "ОС.ЗП.2",
+            "en": "Door structures",
+            "de": "Türstrukturen"
+        },
+        {
+            "ru": "Входная дверь в здание",
+            "code": "ОС.ЗП.2.1",
+            "en": "Entrance door to the building",
+            "de": "Eingangstür zum Gebäude"
+        },
+        {
+            "ru": "Входная дверь в квартиру",
+            "code": "ОС.ЗП.2.2",
+            "en": "Entrance door to the apartment",
+            "de": "Eingangstür zur Wohnung"
+        },
+        {
+            "ru": "Межкомнатная дверь квартиры",
+            "code": "ОС.ЗП.2.3",
+            "en": "Interior door apartment",
+            "de": "Innentürwohnung"
+        },
+        {
+            "ru": "Дверь коммерческих помещений",
+            "code": "ОС.ЗП.2.4",
+            "en": "Door of commercial premises",
+            "de": "Tür von kommerziellen Räumlichkeiten"
+        },
+        {
+            "ru": "Интерьерная дверь МОП",
+            "code": "ОС.ЗП.2.5",
+            "en": "Interior door MOS.",
+            "de": "Innentür-Mos."
+        },
+        {
+            "ru": "Люк/дверь доступа к инженерным коммуникациям",
+            "code": "ОС.ЗП.2.6",
+            "en": "Luke / Access Door of Engineering Communications",
+            "de": "Luke / Zugangstür der Engineering Communications"
+        },
+        {
+            "ru": "Дверь в технические, подсобные и прочие помещения",
+            "code": "ОС.ЗП.2.7",
+            "en": "Door to technical, utility and other premises",
+            "de": "Tür zu technischen, Dienstprogramm und anderen Räumlichkeiten"
+        },
+        {
+            "ru": "Ворота",
+            "code": "ОС.ЗП.2.8",
+            "en": "Gates",
+            "de": "Gatter"
+        },
+        {
+            "ru": "Элементы вертикальной циркуляции",
+            "code": "ОС.ВЦ",
+            "en": "Elements of vertical circulation",
+            "de": "Elemente der vertikalen Zirkulation"
+        },
+        {
+            "ru": "Лестницы функциональные",
+            "code": "ОС.ВЦ.1",
+            "en": "Functional stairs",
+            "de": "Funktionale Treppe"
+        },
+        {
+            "ru": "Лестница металлическая",
+            "code": "ОС.ВЦ.1.1",
+            "en": "Metal staircase",
+            "de": "Metalltreppe"
+        },
+        {
+            "ru": "Лестница интерьерная",
+            "code": "ОС.ВЦ.1.2",
+            "en": "Interior staircase",
+            "de": "Innentreppe"
+        },
+        {
+            "ru": "Ограждение лестницы",
+            "code": "ОС.ВЦ.1.3",
+            "en": "Fencing stairs",
+            "de": "Treppe"
+        },
+        {
+            "ru": "Пандусы специальные",
+            "code": "ОС.ВЦ.2",
+            "en": "Special ramps",
+            "de": "Spezielle Rampen."
+        },
+        {
+            "ru": "Пандус для МГН",
+            "code": "ОС.ВЦ.2.1",
+            "en": "Ramp for MGN.",
+            "de": "Rampe für MGN."
+        },
+        {
+            "ru": "Ограждение пандуса",
+            "code": "ОС.ВЦ.2.2",
+            "en": "Radus fence",
+            "de": "Raduszaun"
+        },
+        {
+            "ru": "Лифты и эскалаторы",
+            "code": "ОС.ВЦ.3",
+            "en": "Elevators and escalators",
+            "de": "Aufzüge und Rolltreppen"
+        },
+        {
+            "ru": "Лифт пассажирский",
+            "code": "ОС.ВЦ.3.1",
+            "en": "Passenger elevator",
+            "de": "Passagieraufzug"
+        },
+        {
+            "ru": "Кабина пассажирского лифта",
+            "code": "ОС.ВЦ.3.1.1",
+            "en": "Passenger elevator cabin",
+            "de": "Passagieraufzugskabine"
+        },
+        {
+            "ru": "Лифтовая дверь пассажирская",
+            "code": "ОС.ВЦ.3.1.2",
+            "en": "Passenger elevator door",
+            "de": "Passagieraufzugstür"
+        },
+        {
+            "ru": "Лифт технический",
+            "code": "ОС.ВЦ.3.2",
+            "en": "Technical elevator",
+            "de": "Technischer Aufzug"
+        },
+        {
+            "ru": "Кабина технического лифта",
+            "code": "ОС.ВЦ.3.2.1",
+            "en": "Technical elevator cabin",
+            "de": "Technische Aufzugskabine"
+        },
+        {
+            "ru": "Лифтовая дверь техническая",
+            "code": "ОС.ВЦ.3.2.2",
+            "en": "Technical elevator door",
+            "de": "Technische Aufzugstür"
+        },
+        {
+            "ru": "Траволатор",
+            "code": "ОС.ВЦ.3.3",
+            "en": "Tracker",
+            "de": "Tracker"
+        },
+        {
+            "ru": "Эскалатор",
+            "code": "ОС.ВЦ.3.4",
+            "en": "Escalator",
+            "de": "Rolltreppe"
+        },
+        {
+            "ru": "Подъемник для МГН",
+            "code": "ОС.ВЦ.3.5",
+            "en": "Lift for MGN.",
+            "de": "Lift für MGN."
+        },
+        {
+            "ru": "Отделка",
+            "code": "ОС.ОТ",
+            "en": "Finish",
+            "de": "Beenden"
+        },
+        {
+            "ru": "Отделка лестниц",
+            "code": "ОС.ОТ.1",
+            "en": "Finishing stairs",
+            "de": "Treppen abschließen"
+        },
+        {
+            "ru": "Отделка лестниц черновая",
+            "code": "ОС.ОТ.1.1",
+            "en": "Finishing stairs Chernovaya",
+            "de": "Treppen-Treppen Chernovaya abschließen"
+        },
+        {
+            "ru": "Отделка лестниц чистовая",
+            "code": "ОС.ОТ.1.2",
+            "en": "Stairs finishing child",
+            "de": "Treppen Finishing Child."
+        },
+        {
+            "ru": "Отделка полов",
+            "code": "ОС.ОТ.2",
+            "en": "Finishing floors",
+            "de": "Abschlussböden"
+        },
+        {
+            "ru": "Отделка пола черновая",
+            "code": "ОС.ОТ.2.1",
+            "en": "Floor Paul Blacknova",
+            "de": "Boden Paul Blacknova."
+        },
+        {
+            "ru": "Отделка пола чистовая",
+            "code": "ОС.ОТ.2.2",
+            "en": "Floor cleaning clean",
+            "de": "Bodenreinigung sauber"
+        },
+        {
+            "ru": "Плинтус",
+            "code": "ОС.ОТ.2.3",
+            "en": "Plinth",
+            "de": "Sockel"
+        },
+        {
+            "ru": "Отделка стен",
+            "code": "ОС.ОТ.3",
+            "en": "Wall decoration",
+            "de": "Wanddekoration"
+        },
+        {
+            "ru": "Отделка стен черновая",
+            "code": "ОС.ОТ.3.1",
+            "en": "Wall decoration blacknovy",
+            "de": "Wanddekoration Blacknovy."
+        },
+        {
+            "ru": "Отделка стен чистовая",
+            "code": "ОС.ОТ.3.2",
+            "en": "Finishing the walls is purple",
+            "de": "Die Mauern abzuschließen, ist lila"
+        },
+        {
+            "ru": "Отделка потолков",
+            "code": "ОС.ОТ.4",
+            "en": "Finishing Ceilkov",
+            "de": "Finishing Ceilkov."
+        },
+        {
+            "ru": "Отделка потолков черновая",
+            "code": "ОС.ОТ.4.1",
+            "en": "Ceiling finishing blacks",
+            "de": "Decke Finishing Blacks."
+        },
+        {
+            "ru": "Отделка потолков чистовая",
+            "code": "ОС.ОТ.4.2",
+            "en": "Finishing ceilings purple",
+            "de": "Finishing Decken lila"
+        },
+        {
+            "ru": "Внешние ограждающие конструкции",
+            "code": "ОС.ВО",
+            "en": "External enclosing structures",
+            "de": "Externe Umschließende Strukturen"
+        },
+        {
+            "ru": "Кровельные конструкции",
+            "code": "ОС.ВО.1",
+            "en": "Roofing designs",
+            "de": "Dachbildungsdesigns."
+        },
+        {
+            "ru": "Скатная кровля",
+            "code": "ОС.ВО.1.1",
+            "en": "Scope roofing",
+            "de": "Scope-Dachdeckel."
+        },
+        {
+            "ru": "Плоская кровля эксплуатируемая",
+            "code": "ОС.ВО.1.2",
+            "en": "Flat roofing operated",
+            "de": "Flachüberdachung betrieben"
+        },
+        {
+            "ru": "Плоская кровля неэксплуатируемая",
+            "code": "ОС.ВО.1.3",
+            "en": "Flat roofing non-exploitable",
+            "de": "Flachüberdachung nicht ausnutzbar"
+        },
+        {
+            "ru": "Компоненты кровли",
+            "code": "ОС.ВО.1.4",
+            "en": "Roof components",
+            "de": "Dachkomponenten"
+        },
+        {
+            "ru": "Ограждение кровли",
+            "code": "ОС.ВО.1.4.1",
+            "en": "Roof fence",
+            "de": "Dachzaun"
+        },
+        {
+            "ru": "Воронка",
+            "code": "ОС.ВО.1.4.2",
+            "en": "Funnel",
+            "de": "Trichter"
+        },
+        {
+            "ru": "Декоративный экран",
+            "code": "ОС.ВО.1.4.3",
+            "en": "Decorative screen",
+            "de": "Dekorativer Bildschirm."
+        },
+        {
+            "ru": "Пути эвакуации и эксплуатации",
+            "code": "ОС.ВО.1.4.4",
+            "en": "Ways evacuation and operation",
+            "de": "Wege Evakuierung und Betrieb"
+        },
+        {
+            "ru": "Светопрозрачная кровля",
+            "code": "ОС.ВО.1.4.5",
+            "en": "Translucent roof",
+            "de": "Durchscheinendes Dach"
+        },
+        {
+            "ru": "Крышка вентшахты",
+            "code": "ОС.ВО.1.4.6",
+            "en": "Cover Ventshacht",
+            "de": "Ventshacht abdecken"
+        },
+        {
+            "ru": "Фасадные конструкции",
+            "code": "ОС.ВО.2",
+            "en": "Facade structures",
+            "de": "Fassadenstrukturen."
+        },
+        {
+            "ru": "Оконная конструкция",
+            "code": "ОС.ВО.2.1",
+            "en": "Window design",
+            "de": "Fensterdesign"
+        },
+        {
+            "ru": "Оконный блок с открыванием",
+            "code": "ОС.ВО.2.1.1",
+            "en": "Window block with opening",
+            "de": "Fensterblock mit der Öffnung"
+        },
+        {
+            "ru": "Глухое окно",
+            "code": "ОС.ВО.2.1.2",
+            "en": "Deaf window",
+            "de": "Taube fenster"
+        },
+        {
+            "ru": "Балконный блок",
+            "code": "ОС.ВО.2.1.3",
+            "en": "Balcony block",
+            "de": "Balkonblock"
+        },
+        {
+            "ru": "Витражная система",
+            "code": "ОС.ВО.2.2",
+            "en": "Stained glass system",
+            "de": "Buntglassystem."
+        },
+        {
+            "ru": "Витраж тёплый",
+            "code": "ОС.ВО.2.2.1",
+            "en": "Stained glasswood",
+            "de": "Buntglaswood."
+        },
+        {
+            "ru": "Витраж холодный",
+            "code": "ОС.ВО.2.2.2",
+            "en": "Stained glass cold",
+            "de": "Buntglas kalt"
+        },
+        {
+            "ru": "Витраж первого этажа",
+            "code": "ОС.ВО.2.2.3",
+            "en": "Stained glass window",
+            "de": "Buntglasfenster"
+        },
+        {
+            "ru": "Компонент витражной системы",
+            "code": "ОС.ВО.2.3",
+            "en": "Component of the stained system",
+            "de": "Komponente des gefärbten Systems"
+        },
+        {
+            "ru": "Витражное окно с открыванием",
+            "code": "ОС.ВО.2.3.1",
+            "en": "Stained window with opening",
+            "de": "Buntes Fenster mit der Öffnung"
+        },
+        {
+            "ru": "Витражная дверь",
+            "code": "ОС.ВО.2.3.2",
+            "en": "Stained bed door",
+            "de": "Bunt-Betttür"
+        },
+        {
+            "ru": "Вентилируемый фасад",
+            "code": "ОС.ВО.2.4",
+            "en": "Ventilated facade",
+            "de": "Belüftete Fassade."
+        },
+        {
+            "ru": "Подсистема крепления отделки фасада",
+            "code": "ОС.ВО.2.4.1",
+            "en": "Facade Fastening Subsystem",
+            "de": "Fassaden-Befestigungs-Subsystem."
+        },
+        {
+            "ru": "Утеплитель вент фасада",
+            "code": "ОС.ВО.2.4.2",
+            "en": "Insulation Vent Facade",
+            "de": "Isolationslüftungsfassade."
+        },
+        {
+            "ru": "Облицовка фасада",
+            "code": "ОС.ВО.2.4.3",
+            "en": "Facing facade",
+            "de": "Fassade gegenüber"
+        },
+        {
+            "ru": "Штукатурный фасад",
+            "code": "ОС.ВО.2.5",
+            "en": "Plaster facade",
+            "de": "Gipsfassade."
+        },
+        {
+            "ru": "Утеплитель штукатурного фасада",
+            "code": "ОС.ВО.2.5.1",
+            "en": "Insulation of plaster facade",
+            "de": "Isolierung der Gipsfassade"
+        },
+        {
+            "ru": "Штукатурка фасадная",
+            "code": "ОС.ВО.2.5.2",
+            "en": "Facade plaster",
+            "de": "Fassadenputz"
+        },
+        {
+            "ru": "Сборный фасад",
+            "code": "ОС.ВО.2.6",
+            "en": "Collection facade",
+            "de": "Sammelfassade."
+        },
+        {
+            "ru": "Сэндвич панель",
+            "code": "ОС.ВО.2.6.1",
+            "en": "Sandwich panel",
+            "de": "Sandwichplatte"
+        },
+        {
+            "ru": "Панель фасадная ЖБИ",
+            "code": "ОС.ВО.2.6.2",
+            "en": "Panel Facade Zhby",
+            "de": "Panelfassade Zhby."
+        },
+        {
+            "ru": "Цоколь",
+            "code": "ОС.ВО.2.7",
+            "en": "Base",
+            "de": "Base"
+        },
+        {
+            "ru": "Специальная фасадная система",
+            "code": "ОС.ВО.2.8",
+            "en": "Special facade system",
+            "de": "Spezielles Fassadensystem."
+        },
+        {
+            "ru": "Медиафасад",
+            "code": "ОС.ВО.2.8.2",
+            "en": "Media Fasad",
+            "de": "Medien Fasad."
+        },
+        {
+            "ru": "Динамический фасад",
+            "code": "ОС.ВО.2.8.3",
+            "en": "Dynamic facade",
+            "de": "Dynamische Fassade."
+        },
+        {
+            "ru": "Компонент фасадной системы",
+            "code": "ОС.ВО.2.9",
+            "en": "Component of the facade system",
+            "de": "Komponente des Fassadensystems"
+        },
+        {
+            "ru": "Декоративный элемент фасада",
+            "code": "ОС.ВО.2.9.1",
+            "en": "Decorative element of the facade",
+            "de": "Dekoratives Element der Fassade"
+        },
+        {
+            "ru": "Крышка парапета",
+            "code": "ОС.ВО.2.9.2",
+            "en": "Parapet cover",
+            "de": "Brüstungsabdeckung"
+        },
+        {
+            "ru": "Отлив фасадный",
+            "code": "ОС.ВО.2.9.3",
+            "en": "Facade sampling",
+            "de": "Fassadenabtastung."
+        },
+        {
+            "ru": "Откос фасадный",
+            "code": "ОС.ВО.2.9.4",
+            "en": "Facade slope",
+            "de": "Fassadensteigung."
+        },
+        {
+            "ru": "Корзина под кондиционеры",
+            "code": "ОС.ВО.2.9.5",
+            "en": "Basket under air conditioning",
+            "de": "Korb unter Klimaanlage"
+        },
+        {
+            "ru": "Подшивка горизонтальных участков фасада",
+            "code": "ОС.ВО.2.9.6",
+            "en": "Facade horizontal sections",
+            "de": "Fassaden horizontale Abschnitte"
+        },
+        {
+            "ru": "Фасадная решетка вентиляции",
+            "code": "ОС.ВО.2.9.7",
+            "en": "Facade magnet ventilation",
+            "de": "Fassaden-Magnet-Lüftung."
+        },
+        {
+            "ru": "Ламель солнцезащитная",
+            "code": "ОС.ВО.2.9.8",
+            "en": "Sunlander lamella",
+            "de": "Sunlander Lamelle"
+        },
+        {
+            "ru": "Ограждение балконное",
+            "code": "ОС.ВО.2.9.9",
+            "en": "Balconged fence",
+            "de": "Balloser Zaun."
+        },
+        {
+            "ru": "Декаративное ограждение",
+            "code": "ОС.ВО.2.9.10",
+            "en": "Decrative fence",
+            "de": "Dekretender Zaun."
+        },
+        {
+            "ru": "Защитное ограждение фасада",
+            "code": "ОС.ВО.2.9.11",
+            "en": "Protective facade fence",
+            "de": "Schutzfassadenzaun."
+        },
+        {
+            "ru": "Козырёк",
+            "code": "ОС.ВО.2.9.12",
+            "en": "Visor",
+            "de": "Visier"
+        },
+        {
+            "ru": "Лайтбокс",
+            "code": "ОС.ВО.2.9.13",
+            "en": "Lightbox",
+            "de": "Lightbox."
+        },
+        {
+            "ru": "Светильник фасадного освещения",
+            "code": "ОС.ВО.2.9.14",
+            "en": "Facade lighting lamp",
+            "de": "Fassadenbeleuchtungslampe"
+        },
+        {
+            "ru": "Помещения и пространства",
+            "code": "ПМ",
+            "en": "Rooms and spaces",
+            "de": "Räume und Räume."
+        },
+        {
+            "ru": "Помещения жилья",
+            "code": "ПМ.ЖЛ",
+            "en": "Housing premises",
+            "de": "Wohnräume"
+        },
+        {
+            "ru": "МОП жилья",
+            "code": "ПМ.ЖЛ.1",
+            "en": "Mop housing",
+            "de": "Mop-Gehäuse"
+        },
+        {
+            "ru": "Коридор МОП жилья",
+            "code": "ПМ.ЖЛ.1.1",
+            "en": "Mop Corridor Housing",
+            "de": "Wischkorridorgehäuse."
+        },
+        {
+            "ru": "Лифтовой холл МОП жилья",
+            "code": "ПМ.ЖЛ.1.2",
+            "en": "Lift Hall Mop Housing",
+            "de": "Heben Sie Hall-Mopp-Gehäuse"
+        },
+        {
+            "ru": "Лестничная клетка МОП жилья",
+            "code": "ПМ.ЖЛ.1.3",
+            "en": "Staircase MOS Housing",
+            "de": "Treppenhaus-MOS-Gehäuse."
+        },
+        {
+            "ru": "Переходной балкон МОП жилья",
+            "code": "ПМ.ЖЛ.1.4",
+            "en": "Transitional balcony Mop housing",
+            "de": "Übergangsbalkon Mop-Gehäuse"
+        },
+        {
+            "ru": "Тамбур МОП жилья",
+            "code": "ПМ.ЖЛ.1.5",
+            "en": "Tambour Mop housing",
+            "de": "Tambour Mop-Gehäuse."
+        },
+        {
+            "ru": "Входная группа МОП жилья",
+            "code": "ПМ.ЖЛ.1.6",
+            "en": "Entrance group MOS Housing",
+            "de": "Eingangsgruppe MOS-Gehäuse"
+        },
+        {
+            "ru": "Вспомогательное помещение МОП жилья",
+            "code": "ПМ.ЖЛ.1.7",
+            "en": "Auxiliary MOS Housing",
+            "de": "Hilfsstoffgehäuse."
+        },
+        {
+            "ru": "Кладовые помещения",
+            "code": "ПМ.ЖЛ.2",
+            "en": "Storage room",
+            "de": "Lagerraum"
+        },
+        {
+            "ru": "Кладовое помещение жилья",
+            "code": "ПМ.ЖЛ.2.1",
+            "en": "Storage room housing",
+            "de": "Abstellraumgehäuse."
+        },
+        {
+            "ru": "Квартиры и апартаменты",
+            "code": "ПМ.ЖЛ.3",
+            "en": "Apartments and apartments",
+            "de": "Apartments und Apartments."
+        },
+        {
+            "ru": "Жилая комната",
+            "code": "ПМ.ЖЛ.3.1",
+            "en": "Living room",
+            "de": "Wohnzimmer"
+        },
+        {
+            "ru": "Кухня-гостиная",
+            "code": "ПМ.ЖЛ.3.2",
+            "en": "Kitchen-living room",
+            "de": "Küche Wohnzimmer"
+        },
+        {
+            "ru": "Кухня квартиры",
+            "code": "ПМ.ЖЛ.3.3",
+            "en": "Kitchen apartment",
+            "de": "Küchenwohnung"
+        },
+        {
+            "ru": "Кухня-ниша квартиры",
+            "code": "ПМ.ЖЛ.3.4",
+            "en": "Kitchen-niche apartment",
+            "de": "Kitchen-Nischen-Wohnung"
+        },
+        {
+            "ru": "Кладовая квартиры",
+            "code": "ПМ.ЖЛ.3.5",
+            "en": "Pantry apartment",
+            "de": "Pantrywohnung"
+        },
+        {
+            "ru": "Коридор, холл квартиры",
+            "code": "ПМ.ЖЛ.3.6",
+            "en": "Corridor, Hall Apartments",
+            "de": "Korridor, Hall Apartments"
+        },
+        {
+            "ru": "Санузел квартиры",
+            "code": "ПМ.ЖЛ.3.7",
+            "en": "Bathroom apartment",
+            "de": "Badezimmerwohnung."
+        },
+        {
+            "ru": "Гардеробная квартиры",
+            "code": "ПМ.ЖЛ.3.8",
+            "en": "Wardrobe apartment",
+            "de": "Garderobe Apartment."
+        },
+        {
+            "ru": "Балкон квартиры",
+            "code": "ПМ.ЖЛ.3.9",
+            "en": "Balcony apartment",
+            "de": "Balkon Apartment."
+        },
+        {
+            "ru": "Веранда квартиры",
+            "code": "ПМ.ЖЛ.3.10",
+            "en": "Veranda apartment",
+            "de": "Veranda Apartment."
+        },
+        {
+            "ru": "Лоджия квартиры",
+            "code": "ПМ.ЖЛ.3.11",
+            "en": "Loggia apartment",
+            "de": "Loggia Apartment."
+        },
+        {
+            "ru": "Терраса квартиры",
+            "code": "ПМ.ЖЛ.3.12",
+            "en": "Terrace Apartments",
+            "de": "Terrassenwohnungen."
+        },
+        {
+            "ru": "Помещения коммерции",
+            "code": "ПМ.КМ",
+            "en": "Commerce premises",
+            "de": "Commerce-Räumlichkeiten"
+        },
+        {
+            "ru": "Коммерческие помещения",
+            "code": "ПМ.КМ.1",
+            "en": "Commercial premises",
+            "de": "Geschäftsräume"
+        },
+        {
+            "ru": "Офисное помещение",
+            "code": "ПМ.КМ.1.1",
+            "en": "Office room",
+            "de": "Büroraum"
+        },
+        {
+            "ru": "Помещение ТРЦ",
+            "code": "ПМ.КМ.1.2",
+            "en": "Shopping center",
+            "de": "Einkaufszentrum"
+        },
+        {
+            "ru": "Арендные помещения",
+            "code": "ПМ.КМ.1.2.1",
+            "en": "Rental premises",
+            "de": "Miete Räumlichkeiten"
+        },
+        {
+            "ru": "МОП",
+            "code": "ПМ.КМ.1.2.2",
+            "en": "Mop.",
+            "de": "Mopp."
+        },
+        {
+            "ru": "Технические",
+            "code": "ПМ.КМ.1.2.3",
+            "en": "Technical",
+            "de": "Technisch"
+        },
+        {
+            "ru": "Стрит-ритейл помещение",
+            "code": "ПМ.КМ.1.3",
+            "en": "Street retail room",
+            "de": "Straßenkaufszimmern"
+        },
+        {
+            "ru": "Залы кинотеотральные",
+            "code": "ПМ.КМ.1.4",
+            "en": "Cinema halls",
+            "de": "Kino-Hallen"
+        },
+        {
+            "ru": "МОП коммерции",
+            "code": "ПМ.КМ.2",
+            "en": "Mop commerce",
+            "de": "MOP Commerce."
+        },
+        {
+            "ru": "Входная группа МОП коммерции",
+            "code": "ПМ.КМ.2.1",
+            "en": "Entrance group of commerce MOS",
+            "de": "Eingangsgruppe Handelsgruppe MOS"
+        },
+        {
+            "ru": "Коридор МОП коммерции",
+            "code": "ПМ.КМ.2.2",
+            "en": "Mop Corridor Commerce",
+            "de": "WIP Corridor Commerce."
+        },
+        {
+            "ru": "Лифтовой холл МОП коммерции",
+            "code": "ПМ.КМ.2.3",
+            "en": "Lift Hall MOS Commerce",
+            "de": "Lift Hall-MOS-Handel"
+        },
+        {
+            "ru": "Лестничная клетка МОП коммерции",
+            "code": "ПМ.КМ.2.4",
+            "en": "Staircase MOS Commerce",
+            "de": "Treppenhaus MOS Handel."
+        },
+        {
+            "ru": "Переходной балкон МОП коммерции",
+            "code": "ПМ.КМ.2.5",
+            "en": "Transitional balcony mop commerce",
+            "de": "Übergangsbalkon Mop-Handel"
+        },
+        {
+            "ru": "Тамбур МОП коммерции",
+            "code": "ПМ.КМ.2.6",
+            "en": "Tambour Must Commerce",
+            "de": "Tambour muss kommerziell sein"
+        },
+        {
+            "ru": "Вспомогательное помещение МОП коммерции",
+            "code": "ПМ.КМ.2.7",
+            "en": "Auxiliary MOS Commerce",
+            "de": "Hilfs-MOS-Handel."
+        },
+        {
+            "ru": "Помещения социальных объектов",
+            "code": "ПМ.СЦ",
+            "en": "Premises of social objects",
+            "de": "Räumlichkeiten von sozialen Objekten"
+        },
+        {
+            "ru": "Помещения детских учреждений",
+            "code": "ПМ.ДУ",
+            "en": "Places of children's institutions",
+            "de": "Orte der Kinderinstitutionen"
+        },
+        {
+            "ru": "Паркинг и подземная часть",
+            "code": "ПМ.ПГ",
+            "en": "Parking and underground",
+            "de": "Parkplatz und Untergrund"
+        },
+        {
+            "ru": "Площади автомобильных парковок",
+            "code": "ПМ.ПГ.1",
+            "en": "Square of car parking",
+            "de": "Quadrat des Parkplatzes"
+        },
+        {
+            "ru": "Автомобильная парковка для жильцов",
+            "code": "ПМ.ПГ.1.1",
+            "en": "Car parking for residents",
+            "de": "Parkplatz für Anwohner"
+        },
+        {
+            "ru": "Автомобильная парковка для коммерции",
+            "code": "ПМ.ПГ.1.2",
+            "en": "Automotive parking for commerce",
+            "de": "Automobilparkplatz für den Handel"
+        },
+        {
+            "ru": "Помещение рампы",
+            "code": "ПМ.ПГ.1.3",
+            "en": "Ramp premises",
+            "de": "Rampengelände."
+        },
+        {
+            "ru": "Полезные площади подземной части",
+            "code": "ПМ.ПГ.2",
+            "en": "Useful underground area",
+            "de": "Nützlicher unterirdischer Bereich"
+        },
+        {
+            "ru": "Кладовая подземной части",
+            "code": "ПМ.ПГ.2.1",
+            "en": "Pantry underground",
+            "de": "Pantry unterirdisch."
+        },
+        {
+            "ru": "Автомойка",
+            "code": "ПМ.ПГ.2.2",
+            "en": "Car wash",
+            "de": "Autowäsche"
+        },
+        {
+            "ru": "Шиномонтаж",
+            "code": "ПМ.ПГ.2.3",
+            "en": "Tire mount",
+            "de": "Reifenhalterung"
+        },
+        {
+            "ru": "МОП паркинга",
+            "code": "ПМ.ПГ.3",
+            "en": "Mop Parking",
+            "de": "Mop-Parkplatz."
+        },
+        {
+            "ru": "Коридор МОП паркинга",
+            "code": "ПМ.ПГ.3.1",
+            "en": "Corridor Mop Parking",
+            "de": "Korridor-Mopp-Parkplatz."
+        },
+        {
+            "ru": "Лифтовой холл МОП паркинга",
+            "code": "ПМ.ПГ.3.2",
+            "en": "Lift Hall Mop Parking",
+            "de": "Lift Hall Mop-Parkplatz"
+        },
+        {
+            "ru": "Лестничная клетка МОП паркинга",
+            "code": "ПМ.ПГ.3.3",
+            "en": "Staircase Mop Parking",
+            "de": "Treppenhaus Mopp Parkplatz."
+        },
+        {
+            "ru": "Тамбур МОП паркинга",
+            "code": "ПМ.ПГ.3.4",
+            "en": "Tambour Mop Parking",
+            "de": "Tambour-Mopp-Parkplatz."
+        },
+        {
+            "ru": "Вспомогательное помещения МОП паркинга",
+            "code": "ПМ.ПГ.3.5",
+            "en": "Auxiliary Parking Parking",
+            "de": "Hilfsparkplatz Parkplatz."
+        },
+        {
+            "ru": "Помещения технические",
+            "code": "ПМ.ТХ",
+            "en": "Premises technical",
+            "de": "Räumlichkeiten technisch"
+        },
+        {
+            "ru": "Инженерные пространства",
+            "code": "ПМ.ТХ.1",
+            "en": "Engineering spaces",
+            "de": "Engineering-Räume."
+        },
+        {
+            "ru": "Техническое помещение",
+            "code": "ПМ.ТХ.1.1",
+            "en": "Utility room",
+            "de": "Allzweckraum"
+        },
+        {
+            "ru": "Общедомовове техническое помещение",
+            "code": "ПМ.ТХ.1.2",
+            "en": "Nightwork technical premises",
+            "de": "Nachtwork Technische Räumlichkeiten"
+        },
+        {
+            "ru": "МОЭК/МОЭСК",
+            "code": "ПМ.ТХ.1.3",
+            "en": "MOEK / MOESK",
+            "de": "MEEK / MOESK."
+        },
+        {
+            "ru": "Техническое помещение хоз. субъекта",
+            "code": "ПМ.ТХ.1.4",
+            "en": "Hose technical premises. Subject",
+            "de": "Schlauch technische Räumlichkeiten. Gegenstand"
+        },
+        {
+            "ru": "Зонирование",
+            "code": "ЗН",
+            "en": "Zoning",
+            "de": "Zoning"
+        },
+        {
+            "ru": "Расчетные зоны (LOSS)",
+            "code": "ЗН.ЛФ",
+            "en": "Estimated zones (LOSS)",
+            "de": "Geschätzte Zonen (Verlust)"
+        },
+        {
+            "ru": "Суммарная поэтажная площадь",
+            "code": "ЗН.ЛФ.1",
+            "en": "Total floor area",
+            "de": "Gesamtfläche Gesamtfläche"
+        },
+        {
+            "ru": "Общая площадь по СП",
+            "code": "ЗН.ЛФ.2",
+            "en": "Total area on the joint",
+            "de": "Gesamtfläche auf dem Gelenk"
+        },
+        {
+            "ru": "Пешеходные и транспортные потоки",
+            "code": "ЗН.ТП",
+            "en": "Pedestrian and transport streams",
+            "de": "Fußgänger- und Transportströme"
+        },
+        {
+            "ru": "Автомобильные проезды",
+            "code": "ЗН.ТП.1",
+            "en": "Car drive",
+            "de": "Autofahrt"
+        },
+        {
+            "ru": "Проезд для легкового транспорта",
+            "code": "ЗН.ТП.1.1",
+            "en": "Passage for passenger transport",
+            "de": "Passage für den Personenverkehr"
+        },
+        {
+            "ru": "Проезд для крупного транспорта",
+            "code": "ЗН.ТП.1.2",
+            "en": "Fare for large transport",
+            "de": "Tarif für den großen Transport"
+        },
+        {
+            "ru": "Машиноместа",
+            "code": "ЗН.ММ",
+            "en": "Mastery",
+            "de": "Meisterschaft"
+        },
+        {
+            "ru": "Машиноместа паркинга",
+            "code": "ЗН.ММ.2",
+            "en": "Mastern Parking",
+            "de": "Mastern Parking."
+        },
+        {
+            "ru": "Машиноместо",
+            "code": "ЗН.ММ.2.1",
+            "en": "Magician",
+            "de": "Zauberer"
+        },
+        {
+            "ru": "Мотоместо",
+            "code": "ЗН.ММ.1.2",
+            "en": "Motomesto",
+            "de": "Motomesto."
+        },
+        {
+            "ru": "Внутренние инженерные системы",
+            "code": "ИС",
+            "en": "Domestic engineering systems",
+            "de": "Inlandsingenieursysteme."
+        },
+        {
+            "ru": "Зоны обслуживания",
+            "code": "ИС.ЗО",
+            "en": "Service zones",
+            "de": "Servicezonen"
+        },
+        {
+            "ru": "Зоны обслуживания",
+            "code": "ИС.ЗО.1",
+            "en": "Service zones",
+            "de": "Servicezonen"
+        },
+        {
+            "ru": "Трубопроводные системы",
+            "code": "ИС.ТС",
+            "en": "Pipeline systems",
+            "de": "Pipeline-Systeme"
+        },
+        {
+            "ru": "Трубы",
+            "code": "ИС.ТС.1",
+            "en": "Pipe",
+            "de": "Rohr"
+        },
+        {
+            "ru": "Соединительные детали трубопроводов",
+            "code": "ИС.ТС.2",
+            "en": "Connecting Details Pipelines",
+            "de": "Anschlussdetails Pipelines"
+        },
+        {
+            "ru": "Арматура трубопроводов",
+            "code": "ИС.ТС.3",
+            "en": "Armature pipelines",
+            "de": "Ankerpipelines."
+        },
+        {
+            "ru": "Изоляция трубопроводов",
+            "code": "ИС.ТС.4",
+            "en": "Insulation pipelines",
+            "de": "Isolierpipelines."
+        },
+        {
+            "ru": "Воздуховодные системы",
+            "code": "ИС.ВС",
+            "en": "Air duct systems",
+            "de": "Luftkanalsysteme."
+        },
+        {
+            "ru": "Воздуховоды",
+            "code": "ИС.ВС.1",
+            "en": "Air ducts",
+            "de": "Luftkanäle"
+        },
+        {
+            "ru": "Соединительные детали воздуховодов",
+            "code": "ИС.ВС.2",
+            "en": "Interior parts of air ducts",
+            "de": "Innenteile von Luftkanälen"
+        },
+        {
+            "ru": "Арматура воздуховодов",
+            "code": "ИС.ВС.3",
+            "en": "Armature air ducts",
+            "de": "Ankerluftkanäle."
+        },
+        {
+            "ru": "Изоляция воздуховодов",
+            "code": "ИС.ВС.4",
+            "en": "Insulation of air ducts",
+            "de": "Isolierung von Luftkanälen"
+        },
+        {
+            "ru": "Воздухораспределители",
+            "code": "ИС.ВС.5",
+            "en": "Air distributors",
+            "de": "Luftverteiler"
+        },
+        {
+            "ru": "Решетки",
+            "code": "ИС.ВС.5.1",
+            "en": "Grid",
+            "de": "Netz"
+        },
+        {
+            "ru": "Диффузоры и дефлекторы",
+            "code": "ИС.ВС.5.2",
+            "en": "Diffusers and deflectors",
+            "de": "Diffusoren und Deflektoren."
+        },
+        {
+            "ru": "Электрические и слаботочные системы",
+            "code": "ИС.ЭС",
+            "en": "Electric and low-current systems",
+            "de": "Elektrische und niedrige Stromsysteme"
+        },
+        {
+            "ru": "Кабелепроводные линии",
+            "code": "ИС.ЭС.1",
+            "en": "Conducting lines",
+            "de": "Leitende Linien"
+        },
+        {
+            "ru": "Кабельные лотки",
+            "code": "ИС.ЭС.1.1",
+            "en": "Cable trays",
+            "de": "Kabelfächer"
+        },
+        {
+            "ru": "Короба",
+            "code": "ИС.ЭС.1.2",
+            "en": "Koroba",
+            "de": "Koroba"
+        },
+        {
+            "ru": "Шинопроводы",
+            "code": "ИС.ЭС.1.3",
+            "en": "Shinovrod.",
+            "de": "SHINOVROD."
+        },
+        {
+            "ru": "Соединительные детали кабельных лотков",
+            "code": "ИС.ЭС.1.4",
+            "en": "Cable trays connecting details",
+            "de": "Kabelfächer, die Details anschließen"
+        },
+        {
+            "ru": "Соединительные детали коробов",
+            "code": "ИС.ЭС.1.5",
+            "en": "Connecting details of Korobov",
+            "de": "Anschlussdetails von Korobov"
+        },
+        {
+            "ru": "Кабели",
+            "code": "ИС.ЭС.2",
+            "en": "Cables",
+            "de": "Kabel"
+        },
+        {
+            "ru": "Шиты\\Шкафы",
+            "code": "ИС.ЭС.3",
+            "en": "Shotes \\ cabinets",
+            "de": "Schieße \\ Schränke"
+        },
+        {
+            "ru": "Электроустановочные изделия",
+            "code": "ИС.ЭС.4",
+            "en": "Wiring accessories",
+            "de": "Verdrahtungszubehör"
+        },
+        {
+            "ru": "Изделия слаботочных систем",
+            "code": "ИС.ЭС.5",
+            "en": "Products of low-current systems",
+            "de": "Produkte von niedrigen Stromsystemen"
+        },
+        {
+            "ru": "Осветительные приборы",
+            "code": "ИС.ЭС.6",
+            "en": "Lighting",
+            "de": "Beleuchtung"
+        },
+        {
+            "ru": "Приборы и оборудование",
+            "code": "ИС.ПО",
+            "en": "Instruments and equipment",
+            "de": "Instrumente und Ausrüstung."
+        },
+        {
+            "ru": "Приборы и оборудование ВК,ОВК",
+            "code": "ИС.ПО.1",
+            "en": "Instruments and equipment VK, HVK",
+            "de": "Instrumente und Ausrüstung VK, HVK"
+        },
+        {
+            "ru": "Электрооборудование",
+            "code": "ИС.ПО.2",
+            "en": "Electrical equipment",
+            "de": "Elektrische Ausrüstung"
+        },
+        {
+            "ru": "Противопожарное оборудование",
+            "code": "ИС.ПО.3",
+            "en": "Fire-fighting equipment",
+            "de": "Feuerkampfausrüstung"
+        },
+        {
+            "ru": "Шкафы",
+            "code": "ИС.ПО.3.1",
+            "en": "Cabinets",
+            "de": "Schränke"
+        },
+        {
+            "ru": "Гидранты",
+            "code": "ИС.ПО.3.2",
+            "en": "Hydrants",
+            "de": "Hydranten"
+        },
+        {
+            "ru": "Оросители",
+            "code": "ИС.ПО.3.3",
+            "en": "Santer",
+            "de": "Santer"
+        },
+        {
+            "ru": "Приборы контроля и учета",
+            "code": "ИС.ПК",
+            "en": "Control and accounting devices",
+            "de": "Steuer- und Rechnungslegungsgeräte"
+        },
+        {
+            "ru": "Счетчики учета воды",
+            "code": "ИС.ПК.1",
+            "en": "Water meters",
+            "de": "Wasserzähler"
+        },
+        {
+            "ru": "Теплосчетчики",
+            "code": "ИС.ПК.2",
+            "en": "Heat meters",
+            "de": "Wärmezähler"
+        },
+        {
+            "ru": "Расходомеры",
+            "code": "ИС.ПК.3",
+            "en": "Flowometers",
+            "de": "Flussometer"
+        },
+        {
+            "ru": "Манометры",
+            "code": "ИС.ПК.4",
+            "en": "Manometers",
+            "de": "Manometer"
+        },
+        {
+            "ru": "Термометры",
+            "code": "ИС.ПК.5",
+            "en": "Thermometers",
+            "de": "Thermometer"
+        },
+        {
+            "ru": "Электросчетчики",
+            "code": "ИС.ПК.6",
+            "en": "Electric meters",
+            "de": "Elektrische Meter"
+        },
+        {
+            "ru": "Молниезащита и заземление",
+            "code": "ИС.МЗ",
+            "en": "Lightning protection and grounding",
+            "de": "Blitzschutz und Erdung"
+        },
+        {
+            "ru": "Молниезащита",
+            "code": "ИС.МЗ.1",
+            "en": "Lightning protection",
+            "de": "Blitzschutz"
+        },
+        {
+            "ru": "Заземление",
+            "code": "ИС.МЗ.2",
+            "en": "Grounding",
+            "de": "Erdung"
+        },
+        {
+            "ru": "Отверстия",
+            "code": "ИС.ОТ",
+            "en": "Holes",
+            "de": "Löcher"
+        },
+        {
+            "ru": "Отверстия под ИОС",
+            "code": "ИС.ОТ.1",
+            "en": "Holes under IOS.",
+            "de": "Löcher unter ios."
+        },
+        {
+            "ru": "Территория",
+            "code": "ТР",
+            "en": "Territory",
+            "de": "Gebiet"
+        },
+        {
+            "ru": "Благоустройство территории",
+            "code": "ТР.БТ",
+            "en": "Improvement of the territory",
+            "de": "Verbesserung des Territoriums"
+        },
+        {
+            "ru": "Проезжие части",
+            "code": "ТР.БТ.1",
+            "en": "Passage parts",
+            "de": "Durchgangsteile"
+        },
+        {
+            "ru": "Проезжая часть над подземной частью здания",
+            "code": "ТР.БТ.1.1",
+            "en": "Driving part over the underground part of the building",
+            "de": "Treiberteil über den unterirdischen Teil des Gebäudes"
+        },
+        {
+            "ru": "Проезжая часть на грунтовом основании",
+            "code": "ТР.БТ.1.2",
+            "en": "Driving part on the ground base",
+            "de": "Treibstoff auf dem Bodenboden"
+        },
+        {
+            "ru": "Тротуары",
+            "code": "ТР.БТ.2",
+            "en": "Sidewalks",
+            "de": "Bürgersteige"
+        },
+        {
+            "ru": "Тротуар над подземной частью здания",
+            "code": "ТР.БТ.2.1",
+            "en": "Sidewalk over the underground part of the building",
+            "de": "Bürgersteig über den unterirdischen Teil des Gebäudes"
+        },
+        {
+            "ru": "Тротуар на грунтовом основании",
+            "code": "ТР.БТ.2.2",
+            "en": "Sidewalk on the soil base",
+            "de": "Bürgersteig auf der Bodenbasis"
+        },
+        {
+            "ru": "Площадки",
+            "code": "ТР.БТ.3",
+            "en": "Places",
+            "de": "Setzt"
+        },
+        {
+            "ru": "Детская площадка",
+            "code": "ТР.БТ.3.1",
+            "en": "Playground",
+            "de": "Spielplatz"
+        },
+        {
+            "ru": "Спортивная площадка",
+            "code": "ТР.БТ.3.2",
+            "en": "Playground",
+            "de": "Sportplatz"
+        },
+        {
+            "ru": "Зона отдыха",
+            "code": "ТР.БТ.3.3",
+            "en": "Rest zone",
+            "de": "Ruhezone"
+        },
+        {
+            "ru": "Зона выгула дом.животных",
+            "code": "ТР.БТ.3.4",
+            "en": "Zone walking house. Life",
+            "de": "Zone Walking House. Leben"
+        },
+        {
+            "ru": "Газоны",
+            "code": "ТР.БТ.4",
+            "en": "Lawns",
+            "de": "Rasen"
+        },
+        {
+            "ru": "Газон над подземной частью здания",
+            "code": "ТР.БТ.4.1",
+            "en": "Lawn over the underground part of the building",
+            "de": "Rasen über den unterirdischen Teil des Gebäudes"
+        },
+        {
+            "ru": "Газон на грунтовом основании",
+            "code": "ТР.БТ.4.2",
+            "en": "Lawn on the ground",
+            "de": "Rasen auf dem Boden"
+        },
+        {
+            "ru": "Озеленение",
+            "code": "ТР.БТ.5",
+            "en": "Landscaping",
+            "de": "Landschaftsgestaltung"
+        },
+        {
+            "ru": "Дерево",
+            "code": "ТР.БТ.5.1",
+            "en": "Tree",
+            "de": "Baum"
+        },
+        {
+            "ru": "Кустарник",
+            "code": "ТР.БТ.5.2",
+            "en": "Bush",
+            "de": "Busch"
+        },
+        {
+            "ru": "Цветник",
+            "code": "ТР.БТ.5.3",
+            "en": "Flower garden",
+            "de": "Blumengarten"
+        },
+        {
+            "ru": "Оборудование",
+            "code": "ТР.БТ.6",
+            "en": "Equipment",
+            "de": "Ausrüstung"
+        },
+        {
+            "ru": "Спортивный комплекс",
+            "code": "ТР.БТ.6.1",
+            "en": "Sports complex",
+            "de": "Sportstätte"
+        },
+        {
+            "ru": "Детский игровой комплекс",
+            "code": "ТР.БТ.6.2",
+            "en": "Children's play complex",
+            "de": "Kinderspielkomplex"
+        },
+        {
+            "ru": "Бордюрные камни",
+            "code": "ТР.БТ.7",
+            "en": "Burgundy stones",
+            "de": "Burgunder Steine"
+        },
+        {
+            "ru": "Дорожный бордюрный камень",
+            "code": "ТР.БТ.7.1",
+            "en": "Road border stone",
+            "de": "Straßengrenze Stein"
+        },
+        {
+            "ru": "Садовый бордюрный камень",
+            "code": "ТР.БТ.7.2",
+            "en": "Garden curb stone",
+            "de": "Garten-Bordsteinstein"
+        },
+        {
+            "ru": "Системы подземного хранения мусора",
+            "code": "ТР.БТ.8",
+            "en": "Underground garbage storage systems",
+            "de": "Unterirdische Müllspeichersysteme"
+        },
+        {
+            "ru": "Парковая мебель",
+            "code": "ТР.БТ.9",
+            "en": "Park furniture",
+            "de": "Parkmöbel"
+        },
+        {
+            "ru": "Малые Архитектурные Формы",
+            "code": "ТР.БТ.10",
+            "en": "Small architectural forms",
+            "de": "Kleine architektonische Formen"
+        },
+        {
+            "ru": "Ограждение территории",
+            "code": "ТР.БТ.11",
+            "en": "Fencing of the territory",
+            "de": "Zäune des Territoriums"
+        },
+        {
+            "ru": "Забор",
+            "code": "ТР.БТ.11.1",
+            "en": "Fence",
+            "de": "Zaun"
+        },
+        {
+            "ru": "Ограда",
+            "code": "ТР.БТ.11.2",
+            "en": "Fence",
+            "de": "Zaun"
+        },
+        {
+            "ru": "Шлагбаум",
+            "code": "ТР.БТ.11.3",
+            "en": "Barrier",
+            "de": "Barriere"
+        },
+        {
+            "ru": "Боллард",
+            "code": "ТР.БТ.11.4",
+            "en": "Bollard",
+            "de": "Poller"
+        },
+        {
+            "ru": "Подпорные сооружения",
+            "code": "ТР.БТ.12",
+            "en": "Retaining facilities",
+            "de": "Halteeinrichtungen"
+        },
+        {
+            "ru": "Подпорная стена",
+            "code": "ТР.БТ.12.1",
+            "en": "Supporting wall",
+            "de": "Tragwand"
+        },
+        {
+            "ru": "Освещение и электроснабжение территории",
+            "code": "ТР.НО",
+            "en": "Lighting and power supply",
+            "de": "Beleuchtung und Stromversorgung"
+        },
+        {
+            "ru": "Освещение площадки",
+            "code": "ТР.НО.1",
+            "en": "Place lighting",
+            "de": "Legen Sie die Beleuchtung an"
+        },
+        {
+            "ru": "Фонарь уличный",
+            "code": "ТР.НО.1.1",
+            "en": "Street lamp",
+            "de": "Straßenlaterne"
+        },
+        {
+            "ru": "Декоративная подсветка",
+            "code": "ТР.НО.1.2",
+            "en": "Decorative backlight",
+            "de": "Dekorative Hintergrundbeleuchtung"
+        },
+        {
+            "ru": "Распределительный щит освещения",
+            "code": "ТР.НО.1.3",
+            "en": "Distribution shield lighting",
+            "de": "Verteilung Schildbeleuchtung."
+        },
+        {
+            "ru": "Прочие компоненты наружного освещения",
+            "code": "ТР.НО.1.4",
+            "en": "Other outdoor lighting components",
+            "de": "Andere Außenbeleuchtungskomponenten"
+        },
+        {
+            "ru": "Дренаж территории",
+            "code": "ТР.ДР",
+            "en": "Drainage of the territory",
+            "de": "Entwässerung des Territoriums"
+        }
+    ]
+}
